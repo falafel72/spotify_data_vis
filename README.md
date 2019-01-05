@@ -1,5 +1,5 @@
 # Spotify Playlist Data Grapher
-Takes Echo Nest data from playlists as shown with [http://sortyourmusic.playlistmachinery.com/]. Currently graphs valence and energy in a scatter plot. 
+Takes Echo Nest data from playlists as shown with http://sortyourmusic.playlistmachinery.com/. Currently graphs valence and energy in a scatter plot. 
 
 ## Usage
 Clone the repo: 
