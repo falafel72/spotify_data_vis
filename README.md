@@ -12,7 +12,7 @@ pip3 install bs4
 pip3 install matplotlib
 ```
 
-Scraping is a work in progress, currently can only parse local html files stored in the same directory.
+Scraping is a work in progress, currently can only parse local html files stored in the same directory. For now, the webpage markup needs to be manually copied.
 
 Then run: 
 ```
